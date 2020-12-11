@@ -1,11 +1,21 @@
-# Simple Todo List
+# Meteor Todos
+[![GitHub Release](https://img.shields.io/github/release/zjayers/meteor.todos.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/meteor.todos.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/meteor.todos.svg?maxAge=25000)](https://github.com/zjayers/meteor.todos/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/meteor.todos/blob/master/LICENSEs)
 
-The Meteor Tutorial app.
+## Description
 
-Use it to share a single todo list with your friends. The list updates on everyone's screen in real time, and you can make tasks private if you don't want others to see them.
+> Work in progress
 
-Learn how to build this app by following the [Meteor Tutorial](https://www.meteor.com/tutorials/react/creating-an-app).
+## Features
 
-Read more about building apps with Meteor in the [Meteor Guide](http://guide.meteor.com).
+> Work in progress
 
-![screenshot](screenshot.png)
+## Installation
+
+> Work in progress
+
+## Usage
+
+> Work in progress
